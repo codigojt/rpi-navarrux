@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=4h1IpXleg3M
+
 # rpi-navarrux
 "Como bastionar tu casa u oficina con una raspberry pi mediante iptables" - Taller HackMadrid 16-4-2020
 
